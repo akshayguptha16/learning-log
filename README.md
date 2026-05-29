@@ -1,5 +1,4 @@
 # learning-log
-# Learning Log — Akshay Guptha
 
 Daily code commits documenting my Python and backend development journey.
 
