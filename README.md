@@ -26,11 +26,13 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 
 ## Daily Log
 | Day | Topic | File |
-|-----|-------|------|
-| Day 1 | f-strings, try/except, error handling | day01.py |
-| Day 2 | Functions, parameters, return values, scope | day02.py |
-| Day 3  | lists, loops, slicing, enumerate | day03.py
-
----
+|-------|--------------------------------------- |--------------------------|
+| Day 01 | f-strings, try/except, error handling |                day01.py  |
+| Day 02 | Functions, parameters, return values,scope|            day02.py  |
+| Day 03 | lists, loops, slicing, enumerate|                      day03.py  |
+| Day 04 | dictionaries, add, update, delete, loop|               day04.py  |
+| Day 05 | OOP, classes, objects, constructor, methods|           day05.py  |
+| Day 06 | Inheritance, super(), parent and child classes|        day06.py  |
+| Day 7 | File handling, read, write, writelines, error handling| day07.py |
 
 *Every line of code in this repo was written by me without AI assistance.*
