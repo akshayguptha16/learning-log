@@ -25,14 +25,16 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 ---
 
 ## Daily Log
-| Day | Topic | File |
+| Day   | ------------------- Topic ---------------------- |      File      |
 |-------|--------------------------------------- |--------------------------|
-| Day 01 | f-strings, try/except, error handling |                day01.py  |
-| Day 02 | Functions, parameters, return values,scope|            day02.py  |
-| Day 03 | lists, loops, slicing, enumerate|                      day03.py  |
-| Day 04 | dictionaries, add, update, delete, loop|               day04.py  |
-| Day 05 | OOP, classes, objects, constructor, methods|           day05.py  |
-| Day 06 | Inheritance, super(), parent and child classes|        day06.py  |
-| Day 7 | File handling, read, write, writelines, error handling| day07.py |
-
+| Day 01 | f-strings, try/except, error handling |                 day01.py |
+| Day 02 | Functions, parameters, return values,scope|             day02.py |
+| Day 03 | lists, loops, slicing, enumerate|                       day03.py |
+| Day 04 | dictionaries, add, update, delete, loop|                day04.py |
+| Day 05 | OOP, classes, objects, constructor, methods|            day05.py | 
+| Day 06 | Inheritance, super(), parent and child classes|         day06.py |
+| Day 07 | File handling, read, write, writelines, error handling |day07.py |
+| Day 08 | Bank Account system, raise ValueError, try/except |     day08.py |  
+| Day 09 | File persistence, auto-save, balance recalculation |    day09.py |
+| Day 10 | SavingsAccount, inheritance, interest calculation       day10.py |   
 *Every line of code in this repo was written by me without AI assistance.*
