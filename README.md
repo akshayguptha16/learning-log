@@ -25,7 +25,7 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 ---
 
 ## Daily Log
-| Day   | ------------------- Topic ---------------------- |      File            |
+| Day    |  Topic  |      File            |
 |--------|--------------------------------------- |-------------------------------|
 | Day 01 | f-strings, try/except, error handling |                 week1/day01.py |
 | Day 02 | Functions, parameters, return values,scope|             week1/day02.py |
