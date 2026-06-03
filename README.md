@@ -41,4 +41,5 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 12 | JSON - dumps, loads, dump, load |                       week2/day12.py |
 | Day 13 | Real API calls, requests library, JSON response |       week2/day13.py |
 | Day 14 | filtering API data, list comprehension, saving to JSON  week2/day14.py |
+| Day 15 | CLI User Explorer project |                             week3/day15.py |
 *Every line of code in this repo was written by me without AI assistance.*
