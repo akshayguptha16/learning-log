@@ -44,4 +44,5 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 15 | CLI User Explorer project |                             week3/day15.py |
 | Day 16 | Contact Book, load, save, add, list functions |         week4/day16.py |  
 | Day 17 | Contact Book - full CRUD, JSON persistence, CSV export| week4/day17.py |
+| Day 18 | Django setup, views, URL routing | django/day18_notes.md               |
 *Every line of code in this repo was written by me without AI assistance.*
