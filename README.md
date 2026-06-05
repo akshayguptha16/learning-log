@@ -37,11 +37,11 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 08 | Bank Account system, raise ValueError, try/except |     week2/day08.py |  
 | Day 09 | File persistence, auto-save, balance recalculation |    week2/day09.py |
 | Day 10 | SavingsAccount, inheritance, interest calculation  |    week2/day10.py |  
-| Day 11 | Modules and Imports |                                   week2/day11.py | 
-| Day 12 | JSON - dumps, loads, dump, load |                       week2/day12.py |
-| Day 13 | Real API calls, requests library, JSON response |       week2/day13.py |
-| Day 14 | filtering API data, list comprehension, saving to JSON| week2/day14.py |
+| Day 11 | Modules and Imports |                                   week3/day11.py | 
+| Day 12 | JSON - dumps, loads, dump, load |                       week3/day12.py |
+| Day 13 | Real API calls, requests library, JSON response |       week3/day13.py |
+| Day 14 | filtering API data, list comprehension, saving to JSON| week3/day14.py |
 | Day 15 | CLI User Explorer project |                             week3/day15.py |
-
-| Day 17 | Contact Book - full CRUD, JSON persistence, CSV export | week3/day17.py|
+| Day 16 | Contact Book, load, save, add, list functions |         week4/day16.py |  
+| Day 17 | Contact Book - full CRUD, JSON persistence, CSV export| week4/day17.py |
 *Every line of code in this repo was written by me without AI assistance.*
