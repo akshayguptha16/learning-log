@@ -48,4 +48,5 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 19 | Django templates, context, template tags |       django/day19_notes.md | 
 | Day 20 | Django models, migrations, ORM, admin panel |    django/day20_notes.md |
 | Day 21 | Django forms, ModelForm, POST handling |         django/day21_notes.md |
+| Day 22 | Django CRUD complete - delete and update views | django/day22_notes.md |
 *Every line of code in this repo was written by me without AI assistance.*
