@@ -45,5 +45,6 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 16 | Contact Book, load, save, add, list functions |         week4/day16.py |  
 | Day 17 | Contact Book - full CRUD, JSON persistence, CSV export| week4/day17.py |
 | Day 18 | Django setup, views, URL routing |               django/day18_notes.md |
-| Day 19 | Django templates, context, template tags  |      django/day19_notes.md |      
+| Day 19 | Django templates, context, template tags |       django/day19_notes.md | 
+| Day 20 | Django models, migrations, ORM, admin panel |    django/day20_notes.md |
 *Every line of code in this repo was written by me without AI assistance.*
