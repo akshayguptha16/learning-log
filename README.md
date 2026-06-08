@@ -51,4 +51,5 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 22 | Django CRUD complete - delete and update views | django/day22_notes.md |
 | Day 23 | Bootstrap styling, base template, template inheritance | django/day23_notes.md |
 | Day 24 | Django deployment, Render, Gunicorn, Whitenoise | django/day24_notes.md |
+| Day 25 | Django REST Framework, serializers, API endpoints | django/day25_notes.md |
 *Every line of code in this repo was written by me without AI assistance.*
