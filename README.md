@@ -52,4 +52,7 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 23 | Bootstrap styling, base template, template inheritance | django/day23_notes.md |
 | Day 24 | Django deployment, Render, Gunicorn, Whitenoise | django/day24_notes.md |
 | Day 25 | Django REST Framework, serializers, API endpoints | django/day25_notes.md |
+| Day 26 | PostgreSQL integration, psycopg2, database switch | django/day26_notes.md |
+| Day 27 | Project cleanup, README, interview preparation | django/day27_notes.md |
+
 *Every line of code in this repo was written by me without AI assistance.*
