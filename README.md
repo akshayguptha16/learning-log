@@ -55,5 +55,6 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 26 | PostgreSQL integration, psycopg2, database switch | django/day26_notes.md |
 | Day 27 | Project cleanup, README, interview preparation | django/day27_notes.md |
 | Day 28 | DSA basics, arrays, strings, two pointer, hashmap | week4/day28.py |
+| Day 29 | DSA, FizzBuzz, count vowels, find duplicates | week5/day29.py |
 
 *Every line of code in this repo was written by me without AI assistance.*
