@@ -1,10 +1,6 @@
 # Problem 1 — FizzBuzz
 # Write a function that takes a number n and prints:
 
-# "Fizz" for multiples of 3
-# "Buzz" for multiples of 5
-# "FizzBuzz" for multiples of both 3 and 5
-# The number itself for everything else
 
 def fizzbuzz(n):
     for i in range(1, n+1):
