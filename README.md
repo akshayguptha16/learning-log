@@ -58,5 +58,6 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 29 | DSA, FizzBuzz, count vowels, find duplicates | week5/day29.py |
 | Day 30 | DSA - second largest, anagram, Kadane's algorithm | week5/day30.py |
 | Day 31 | Pythonic Python - list, dict, generator comprehensions | week5/day31.py |
+| Day 32 | Decorators, context managers, timer, require_auth | week5/day32.py |
 
 *Every line of code in this repo was written by me without AI assistance.*
