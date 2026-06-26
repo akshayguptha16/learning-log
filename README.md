@@ -56,5 +56,6 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 27 | Project cleanup, README, interview preparation | django/day27_notes.md |
 | Day 28 | DSA basics, arrays, strings, two pointer, hashmap | week4/day28.py |
 | Day 29 | DSA, FizzBuzz, count vowels, find duplicates | week5/day29.py |
+| Day 30 | DSA - second largest, anagram, Kadane's algorithm | week5/day30.py |
 
 *Every line of code in this repo was written by me without AI assistance.*
