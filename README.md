@@ -59,5 +59,7 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 30 | DSA - second largest, anagram, Kadane's algorithm | week5/day30.py |
 | Day 31 | Pythonic Python - list, dict, generator comprehensions | week5/day31.py |
 | Day 32 | Decorators, context managers, timer, require_auth | week5/day32.py |
+| Day 33 | PyTest basics, assertions, test driven workflow | week5/day33.py |
+
 
 *Every line of code in this repo was written by me without AI assistance.*
