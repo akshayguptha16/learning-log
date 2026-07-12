@@ -64,5 +64,6 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 35 | Mock technical interview - Python, Django, DSA, System Design | week5/day35_interview.md|
 | Day 36 | DSA - valid parentheses, climbing stairs, contains duplicate | week5/day36.py |
 | Day 37 | DSA, stock profit, reverse string, longest prefix | week5/day37.py |
+| Day 38 | DSA, move zeroes, single number XOR, binary tree depth | week5/day38.py |
 
 *Every line of code in this repo was written by me without AI assistance.*
