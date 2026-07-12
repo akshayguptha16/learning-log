@@ -61,7 +61,7 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 32 | Decorators, context managers, timer, require_auth | week5/day32.py |
 | Day 33 | PyTest basics, assertions, test driven workflow | week5/day33.py |
 | Day 34 | Docker, docker-compose, PostgreSQL container | django/day34_notes.md |
-| Day 35 |  | week5/day35.py |
+| Day 35 | Mock technical interview - Python, Django, DSA, System Design | week5/day35_interview.md|
 | Day 36 | DSA - valid parentheses, climbing stairs, contains duplicate | week5/day36.py |
 
 *Every line of code in this repo was written by me without AI assistance.*
