@@ -66,4 +66,6 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 37 | DSA, stock profit, reverse string, longest prefix | week5/day37.py |
 | Day 38 | DSA, move zeroes, single number XOR, binary tree depth | week5/day38.py |
 | Day 39 | behavioral interview prep, system design URL shortener | week5/day39_interview.md |
+| Day 40 | ORM optimization theory, Docker networking concepts | week5/day40_theory.md |
+
 *Every line of code in this repo was written by me without AI assistance.*
