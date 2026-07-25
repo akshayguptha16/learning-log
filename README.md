@@ -69,5 +69,6 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 40 | ORM optimization theory, Docker networking concepts | week5/day40_theory.md |
 | Day 41 | medium DSA, sliding window, group anagrams, product except self | week5/day41.py |
 | Day 42 | Mock interview - GIL, middleware, notification system design | week5/day42_interview.md |
+| Day 43 | Linux basics, file permissions, shell scripting | week6/day43_linux.md |
 
 *Every line of code in this repo was written by me without AI assistance.*
