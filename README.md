@@ -70,5 +70,9 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 41 | medium DSA, sliding window, group anagrams, product except self | week5/day41.py |
 | Day 42 | Mock interview - GIL, middleware, notification system design | week5/day42_interview.md |
 | Day 43 | Linux basics, file permissions, shell scripting | week6/day43_linux.md |
+| Day 44 | CI/CD with GitHub Actions, automated testing pipeline | week6/day44_cicd.md |
+| Day 45 | Complete CI/CD - auto-deploy to Render after tests pass | week6/day45_cicd.md |
+| Day 46 | Final resume update, LinkedIn skills update | week6/day46_resume.md |
+| Day 47 | Advanced mock interview - garbage collection, rate limiter, merge sorted | week6/day47_interview.md |
 
 *Every line of code in this repo was written by me without AI assistance.*
