@@ -1,0 +1,14 @@
+## Key Concepts
+- needs: test — deploy job waits for test job to pass
+- if: github.ref — only deploy from main branch, not feature branches
+- GitHub Secrets — store RENDER_DEPLOY_HOOK securely
+- secrets.RENDER_DEPLOY_HOOK — access secret inside workflow
+- curl — command line HTTP request to trigger Render deployment
+- Two-job workflow — separation of concerns, test then deploy
+
+## Why This Matters
+- Code only reaches production if tests pass
+- No manual deployment steps needed
+- Every commit is automatically verified and deployed
+- Industry standard CI/CD workflow
+- Shows DevOps knowledge to employers
