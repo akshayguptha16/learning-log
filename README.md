@@ -74,7 +74,7 @@ Goal: Land a Python Developer or Backend Developer role in Bengaluru
 | Day 45 | Complete CI/CD - auto-deploy to Render after tests pass | week6/day45_cicd.md |
 | Day 46 | Final resume update, LinkedIn skills update | week6/day46_resume.md |
 | Day 47 | Advanced mock interview - garbage collection, rate limiter, merge sorted | week6/day47_interview.md |
-| Day 48 - Application strategy, honest self assessment | week6/day48_notes.md |
+| Day 48 | Application strategy, honest self assessment | week6/day48_notes.md |
 | Day 49 | Final interview questions - 10/10 correct, no AI | week6/day49_interview.md |
 
 *Every line of code in this repo was written by me without AI assistance.*
